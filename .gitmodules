@@ -1,3 +1,6 @@
 [submodule "final-bdt"]
 	path = final-bdt
 	url = https://github.com/aufawibowo/final-bdt
+[submodule "redis-sentinel"]
+	path = redis-sentinel
+	url = https://github.com/aufawibowo/redis-sentinel
