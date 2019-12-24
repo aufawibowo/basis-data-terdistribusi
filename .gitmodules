@@ -4,3 +4,6 @@
 [submodule "redis-sentinel"]
 	path = redis-sentinel
 	url = https://github.com/aufawibowo/redis-sentinel
+[submodule "mongodb-sharding"]
+	path = mongodb-sharding
+	url = https://github.com/aufawibowo/mongodb-sharding
