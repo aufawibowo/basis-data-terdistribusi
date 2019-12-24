@@ -7,3 +7,6 @@
 [submodule "mongodb-sharding"]
 	path = mongodb-sharding
 	url = https://github.com/aufawibowo/mongodb-sharding
+[submodule "multi-master-replication"]
+	path = multi-master-replication
+	url = https://github.com/aufawibowo/multi-master-replication
